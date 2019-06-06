@@ -13,5 +13,4 @@ The final data consist of a document-term matrix where the terms are the words a
 The preprocessing of the data is applied by Orange canvas, an open-source data visualization, machine learning and data mining toolkit.
 The final result is a saved file in csv.
 
-
-This visualisation is a part of the course "visualisation de données"  under the supervision of M. Isaac Pante(SP2019).
+*This visualisation is a part of the course "visualisation de données"  under the supervision of M. Isaac Pante(SP2019).
